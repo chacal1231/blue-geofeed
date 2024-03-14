@@ -1,0 +1,11 @@
+# BLUE TELECOMUNICACIONES SAS Geofeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 2023-12-09
+#
+# This data feed provides approximate geo locations for a subset of
+# TVYMAS IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups
+#ip_prefix,alpha2code,region,city,postal_code
+38.43.124.0/23,CO,CO-CAS,Yopal,850001
+38.43.126.0/24,CO,CO-BOY,Guateque,153050
+38.43.127.0/24,CO,CO-BOY,Garagoa,152860
